@@ -1,9 +1,9 @@
 # JavaScript - REST API - SQL 
-This repository contains my solutions to the LinearSix Software Engineer screening test. The assignment consists of three main tasks demonstrating JavaScript programming, REST API integration, and SQL query development skills.
+This repository contains solutions to the JavaScript - REST API - SQL tasks. The assignment consists of three main tasks demonstrating JavaScript programming, REST API integration, and SQL query development.
 
 ## Repository Structure
 <pre>
-linear-six-screening-test/
+javaScript-rest-api-sql-tasks/
 ├── javascript/
 │   ├── task1.1-date-extension.js      # Date object extension
 │   ├── task1.2-sales-sort.js          # Sales data sorting
