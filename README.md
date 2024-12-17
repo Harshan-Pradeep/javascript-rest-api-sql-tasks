@@ -53,8 +53,8 @@ linear-six-screening-test/
 4. Add test users if using external user type
 
 # Required Environment Variables
-API_KEY=calender-api-key
-CLIENT_ID=client-id
+  API_KEY=calender-api-key
+  CLIENT_ID=client-id
 
 ### 3. SQL Development
 
