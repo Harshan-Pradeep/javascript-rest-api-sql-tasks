@@ -87,8 +87,8 @@ class GoogleCalendarAPI {
 }
 
 // API credentials configuration
-const API_KEY = 'AIzaSyCyHaK3BHMI4_OVvbM7yazVbKkuzp1ybuk';
-const CLIENT_ID = '1015988092270-5ib66koc6eia0i92gh8pvj8bivjindm5.apps.googleusercontent.com';
+const API_KEY = 'calender-api-key';
+const CLIENT_ID = 'client-id';
 
 /*
 Runs test suite for calendar API implementation
