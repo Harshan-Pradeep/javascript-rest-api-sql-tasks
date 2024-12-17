@@ -1,3 +1,8 @@
+/* 
+    When I try to run an SQL script on this website 'https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_columns',   
+    I encounter issues,  so i use this compiler 'https://www.programiz.com/sql/online-compiler/'  instead
+*/
+
 -- 3.1. Create tables and insert data
 
 -- Create user table
