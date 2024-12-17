@@ -2,6 +2,7 @@
 This repository contains my solutions to the LinearSix Software Engineer screening test. The assignment consists of three main tasks demonstrating JavaScript programming, REST API integration, and SQL query development skills.
 
 ## Repository Structure
+<pre>
 linear-six-screening-test/
 ├── javascript/
 │   ├── task1.1-date-extension.js      # Date object extension
@@ -13,6 +14,7 @@ linear-six-screening-test/
 │   ├── create-tables.sql              # SQL table creation
 │   └── queries.sql                    # Required SQL queries
 └── README.md
+</pre>
 
 ## Task Solutions
 
@@ -52,9 +54,9 @@ linear-six-screening-test/
 3. Set up credentials (API key and OAuth client ID)
 4. Add test users if using external user type
 
-# Required Environment Variables
-  API_KEY=calender-api-key
-  CLIENT_ID=client-id
+#### Required Environment Variables
+- `API_KEY`: Calendar API key
+- `CLIENT_ID`: Client identification
 
 ### 3. SQL Development
 
@@ -64,5 +66,5 @@ linear-six-screening-test/
   - Users named Victor not in test groups
   - Users created before their group membership
 
-## Setup and Testing
+#### Setup and Testing
   - [https://www.programiz.com/sql/online-compiler/]
