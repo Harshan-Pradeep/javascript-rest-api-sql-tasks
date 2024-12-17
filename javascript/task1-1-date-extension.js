@@ -38,7 +38,7 @@ Date.prototype.daysTo = function (otherDate) {
        - Invalide dates input
 */
 
-function daysDiffTestsRun() {
+function runTestsOfDaysDiff() {
 
     const d1 = new Date('2024-01-01');
     const d2 = new Date('2024-01-05');
@@ -64,4 +64,4 @@ function daysDiffTestsRun() {
 }
 
 // Execute tests scenarios
-daysDiffTestsRun();
+runTestsOfDaysDiff();
